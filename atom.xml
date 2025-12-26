@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jiu-wei.github.io</id>
+    <title>Gridea</title>
+    <updated>2025-12-26T02:37:07.191Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jiu-wei.github.io"/>
+    <link rel="self" href="https://jiu-wei.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://jiu-wei.github.io/images/avatar.png</logo>
+    <icon>https://jiu-wei.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[第一章：新的开始]]></title>
+        <id>https://jiu-wei.github.io/post/di-yi-zhang-xin-de-kai-shi/</id>
+        <link href="https://jiu-wei.github.io/post/di-yi-zhang-xin-de-kai-shi/">
+        </link>
+        <updated>2025-12-26T02:11:23.000Z</updated>
+        <content type="html"><![CDATA[<p>说实话，一直心心念念的博客终于搭好了，虽然很简单，但也是一个不错的开始😁</p>
+]]></content>
+    </entry>
+</feed>
